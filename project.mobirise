@@ -1,0 +1,74 @@
+{
+  "settings": {
+    "name": "Site-10-17_0023",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise5",
+      "title": "Mobirise 5",
+      "titlePreset": "Mobirise 5",
+      "styling": {
+        "primaryColor": "#6592e6",
+        "secondaryColor": "#ff6666",
+        "successColor": "#40b0bf",
+        "infoColor": "#47b5ed",
+        "warningColor": "#FFE161",
+        "dangerColor": "#ff9966",
+        "mainFont": "Jost",
+        "display1Font": "Jost",
+        "display1Size": 4.6,
+        "display2Font": "Jost",
+        "display2Size": 3,
+        "display5Font": "Jost",
+        "display5Size": 2,
+        "display7Font": "Jost",
+        "display7Size": 1.2,
+        "display4Font": "Jost",
+        "display4Size": 1.1,
+        "isRoundedButtons": false,
+        "isGhostButtonBorder": false,
+        "underlinedLinks": false,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false
+      }
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "5.7.12",
+    "siteFonts": [],
+    "imageResize": true,
+    "publishChangesOnly": true,
+    "uniqCompNum": 1,
+    "versionPublish": "5.7.12"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Zamówienie",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "alias": "eb-chats-widget",
+          "_isSecondary": true,
+          "_styles": {},
+          "_name": "eb-chats-widget",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section class=\"elb-widgets eb-chats-widget\" group=\"Chat\" once=\"chat\"><div style=\"max-width:600px;margin:0 auto;padding: 70px 0;\">    <div class=\"popupChatsPlaceholder\">        <style>            .popupChatsPlaceholder h2::after {content: \"\"; position: absolute; left: 0; bottom: 0; height: 100%; width: 100%;}        </style>        <h2>POPUP CHAT WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2>        <img src=\"../eb-chats-widget/assets/posts.jpg\">    </div></div></section>",
+          "_cid": "tSTi6s01n6",
+          "_anchor": "eb-chats-widget-0",
+          "safe": {
+            "id": 15676,
+            "code": "<script src=\"https://s.electricblaze.com/widget.js\" defer></script>\n<div class=\"electricblaze-id-2Uhx9Uy\"></div>"
+          },
+          "_protectedParams": [],
+          "_global": false,
+          "_once": "chat",
+          "_params": {}
+        }
+      ]
+    }
+  }
+}
